@@ -1,0 +1,9 @@
+{
+  "name": "style",
+  "version": "0.0.0",
+  "dependencies": {
+    "gulp": "~3.2.2",
+    "gulp-myth": "~0.1.0",
+    "gulp-concat": "~2.1.7"
+  }
+}
